@@ -1,5 +1,7 @@
 # ScientaeWebsiteProject
-Public Repo To Demonstrate Functionality without revealing Confidential Code
+Public Repo To Demonstrate Functionality without Revealing Confidential Code
+
+![Screenshot 2025-01-02 at 19-19-38 Scientia](https://github.com/user-attachments/assets/d5584f76-4278-4f3a-90c5-3e6d9a7d9bc0)
 
 ![Screenshot 2025-01-01 at 22-44-06 Scientia](https://github.com/user-attachments/assets/0f654e2e-77a1-4bcf-911c-29f9e45aa0f3)
 ![Screenshot 2025-01-01 at 22-44-26 Scientia About](https://github.com/user-attachments/assets/7f10bb2c-98ce-4629-9f35-0208f829607b)
