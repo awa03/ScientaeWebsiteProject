@@ -1,7 +1,7 @@
 # ScientaeWebsiteProject
 Public Repo To Demonstrate Functionality without Revealing Confidential Code
 
-[!Update Video](https://youtu.be/mQQKDxkdii8)
+[Update Video](https://youtu.be/mQQKDxkdii8)
 
 ![Screenshot 2025-01-02 at 19-19-38 Scientia](https://github.com/user-attachments/assets/d5584f76-4278-4f3a-90c5-3e6d9a7d9bc0)
 
